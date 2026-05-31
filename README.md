@@ -1,4 +1,5 @@
 # LearnIQ — AI-Powered Personalized Learning Platform
+Link :- learniqdotin.vercel.app
 
 A full-stack education platform with adaptive AI recommendations, intelligent quizzes, smart study planning, and performance analytics.
 
